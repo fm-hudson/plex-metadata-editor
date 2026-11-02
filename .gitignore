@@ -1,0 +1,25 @@
+# Python byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local settings, tokens, logs, and runtime files
+*settings*.json
+*queue*.json
+*.pid
+*.log
+*.csv
+*.bak*
+*.safety_*
+*_cover*.jpg
+*_tags*.xml
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
